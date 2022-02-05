@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHRIST >
+	
+
+	<COMPUTER-SCIENCE>
+            <STU-NAME> STEPEHEN </STU-NAME>
+            <STU-UNIVERSITY>A+</STU-UNIVERSITY>
+            <STU-EMAIL>stephen@christ.in</STU-EMAIL>
+            <STU-PHONE>1234098765</STU-PHONE>
+            
+	</COMPUTER-SCIENCE>
+
+    <COMPUTER-SCIENCE>
+      
+            <STU-NAME> ROSE </STU-NAME>
+            
+            <STU-UNIVERSITY>AB+</STU-UNIVERSITY>
+            <STU-EMAIL>25 NOV 2022</STU-EMAIL>
+            <STU-PHONE>9876540123</STU-PHONE>
+    </COMPUTER-SCIENCE>
+
+    <COMPUTER-SCIENCE>
+            <STU-NAME> SUSEN </STU-NAME>
+            
+            <STU-UNIVERSITY>O+</STU-UNIVERSITY>
+            <STU-EMAIL>12 JAN 2022</STU-EMAIL>
+            <STU-PHONE>7874561230</STU-PHONE>
+    </COMPUTER-SCIENCE>
+
+    <COMPUTER-SCIENCE>
+            <STU-NAME> ALEX </STU-NAME>
+            
+            <STU-UNIVERSITY>O-</STU-UNIVERSITY>
+            <STU-EMAIL>12 JAN 2022</STU-EMAIL>
+            <STU-PHONE>3546092378</STU-PHONE>
+    </COMPUTER-SCIENCE>
+
+    <COMPUTER-SCIENCE>
+            <STU-NAME> ALFRED </STU-NAME>
+            
+            <STU-UNIVERSITY>B+</STU-UNIVERSITY>
+            <STU-EMAIL>12 JAN 2021</STU-EMAIL>
+            <STU-PHONE>9645547431</STU-PHONE>
+
+        </COMPUTER-SCIENCE>
+
+    <COMPUTER-SCIENCE>
+            <STU-NAME> AHMED SHEIK </STU-NAME>
+            
+            <STU-UNIVERSITY>A-</STU-UNIVERSITY>
+            <STU-EMAIL>12 JAN 2021</STU-EMAIL>
+            <STU-PHONE>6584723548</STU-PHONE>
+    </COMPUTER-SCIENCE>
+
+    <COMPUTER-SCIENCE>
+        
+            <STU-NAME> JHONY </STU-NAME>
+            
+            <STU-UNIVERSITY>O+</STU-UNIVERSITY>
+            <STU-EMAIL>6 JAN 2022</STU-EMAIL>
+
+            <STU-PHONE>7254023148</STU-PHONE>
+    </COMPUTER-SCIENCE>
+
+    <COMPUTER-SCIENCE>
+     
+            <STU-NAME> NOAH </STU-NAME>
+            
+            <STU-UNIVERSITY>AB+</STU-UNIVERSITY>
+            <STU-EMAIL>4 JAN 2022</STU-EMAIL>
+
+            <STU-PHONE>5478565214</STU-PHONE>
+		
+    </COMPUTER-SCIENCE>
+
+    <COMPUTER-SCIENCE>
+     
+            <STU-NAME> CHRISTHOPHER </STU-NAME>
+            
+            <STU-UNIVERSITY>B+</STU-UNIVERSITY>
+            <STU-EMAIL>1 JAN 2022</STU-EMAIL>
+            <STU-PHONE>9867458245</STU-PHONE>
+    
+        </COMPUTER-SCIENCE>
+
+    <COMPUTER-SCIENCE>
+    
+            <STU-NAME> CYNDRELLA </STU-NAME>
+            
+            <STU-UNIVERSITY>O+</STU-UNIVERSITY>
+            <STU-EMAIL>5 JAN 2022</STU-EMAIL>
+            <STU-PHONE>7548214563</STU-PHONE>
+		
+    </COMPUTER-SCIENCE>
+
+
+
+</CHRIST>
