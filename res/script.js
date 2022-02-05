@@ -33,7 +33,7 @@ const showTable = (xmlRes) => {
         <th>Contact_no</th>
         <th>Actions</th>
         </tr>`;
-    const x = xmlRes.getElementsByTagName("CHRIST");
+    const x = xmlRes.getElementsByTagName("COMPUTER-SCIENCE");
     for(let i=0;i<x.length;i++){
         table += `<form onsubmit="submitFormHandler()">
         <tr>
