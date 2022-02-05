@@ -234,34 +234,5 @@ function validate()
     window.open("DOM.html","_self")
 
   }
-  // if(fullname.value == "" || uname.value == "" || pwd.value == "" || email.value == "" || phno.value == "" || dob.value == "")
-  // {
-  //   checkname();
-  // }
-  // if(uname.value == "")
-  // {
-  //   validateUsername();
-  // }
-  // if(pwd.value == "")
-  // {
-  //   validatePassword();
-  // }
-  // if(email.value == "")
-  // {
-  //   validateEmail();
-  // }
-  // if(phno.value == "")
-  // {
-  //   validatePhone();
-  // }
-  // if(dob.value == "")
-  // {
-  //   validatedob();
-  // }
-
-  // else
-  // {
-  //   return false;
-  // }
 }
     
